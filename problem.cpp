@@ -58,6 +58,6 @@ std::vector<Problem> Problem::problemList(std::string filename) {
     }
     return problems;
 
-    std::stringstream buffer;
+    //std::stringstream buffer;
     
 }
